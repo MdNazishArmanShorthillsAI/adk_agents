@@ -1,0 +1,802 @@
+{
+    "2024 annual client report": [
+        {
+            "id": "doc-001",
+            "source": "NTH_DB",
+            "content": "The 2024 annual report shows a 15% increase in revenue, primarily driven by the new SaaS division. Key challenges include supply chain disruptions.",
+            "metadata": {"year": 2024, "type": "Annual Report"}
+        }
+    ],
+    "tax implications document xyz": [
+        {
+            "id": "doc-002",
+            "source": "NTH_DB",
+            "content": "Document XYZ outlines that increased revenue from digital services may be subject to a new 5% digital services tax.",
+            "metadata": {"document_id": "XYZ", "type": "Tax Advisory"}
+        }
+    ],
+    "Q1 2024 Marketing Campaign 'Spring Forward' Analysis": [
+        {
+            "id": "doc-003",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Spring Forward' campaign in Q1 2024 resulted in a 25% increase in website traffic and a 10% rise in qualified leads. The cost per acquisition (CPA) was $50, which is 5% below the target.",
+            "metadata": {"year": 2024, "quarter": 1, "type": "Marketing Campaign Analysis", "campaign_name": "Spring Forward"}
+        }
+    ],
+    "2023 Employee Satisfaction Survey Results": [
+        {
+            "id": "doc-004",
+            "source": "HR_Portal",
+            "content": "The 2023 Employee Satisfaction Survey indicated an overall satisfaction rate of 82%, up 3% from 2022. Key areas for improvement include inter-departmental communication and career pathing.",
+            "metadata": {"year": 2023, "type": "HR Survey", "response_rate": "91%"}
+        }
+    ],
+    "Project Alpha - Phase 2 Completion Report": [
+        {
+            "id": "doc-005",
+            "source": "ProjectManagement_Office",
+            "content": "Phase 2 of Project Alpha was completed on schedule and 2% under budget. All key deliverables for this phase have been met. Phase 3 is set to commence next month.",
+            "metadata": {"project_id": "Alpha", "phase": 2, "type": "Project Report"}
+        }
+    ],
+    "Q3 2023 Financial Results": [
+        {
+            "id": "doc-006",
+            "source": "Finance_DB",
+            "content": "Q3 2023 financials show a net profit of $2.1 million, a 5% decrease from the previous quarter, attributed to increased R&D spending. Revenue remained steady at $15 million.",
+            "metadata": {"year": 2023, "quarter": 3, "type": "Quarterly Report"}
+        }
+    ],
+    "Updated Remote Work Policy - Effective Jan 2025": [
+        {
+            "id": "doc-007",
+            "source": "HR_Policies",
+            "content": "The updated remote work policy, effective January 2025, allows employees to work remotely up to three days a week, subject to manager approval. The policy outlines new guidelines for home office setup and security.",
+            "metadata": {"effective_date": "2025-01-01", "type": "HR Policy"}
+        }
+    ],
+    "Supply Chain Risk Assessment - Southeast Asia": [
+        {
+            "id": "doc-008",
+            "source": "Logistics_Dept",
+            "content": "A recent risk assessment of our Southeast Asia supply chain identified potential disruptions due to regional geopolitical tensions. Mitigation strategies are being developed.",
+            "metadata": {"region": "Southeast Asia", "type": "Risk Assessment"}
+        }
+    ],
+    "Legal Brief - Intellectual Property Case 78-B": [
+        {
+            "id": "doc-009",
+            "source": "Legal_Docs",
+            "content": "This brief provides an overview of the ongoing intellectual property case 78-B. Discovery phase is complete, and a court date is anticipated in the next quarter.",
+            "metadata": {"case_id": "78-B", "type": "Legal Brief"}
+        }
+    ],
+    "IT Department Q4 2023 System Uptime Report": [
+        {
+            "id": "doc-010",
+            "source": "IT_Support_Logs",
+            "content": "The IT department reported a 99.98% system uptime for all critical systems in Q4 2023, exceeding the target of 99.95%. A minor outage on the internal CRM system was resolved within 30 minutes.",
+            "metadata": {"year": 2023, "quarter": 4, "type": "IT Report"}
+        }
+    ],
+    "2025 Budget Proposal - Marketing Department": [
+        {
+            "id": "doc-011",
+            "source": "Finance_Planning",
+            "content": "The Marketing Department's 2025 budget proposal requests a 10% increase to support the launch of two new products and expansion into the European market.",
+            "metadata": {"year": 2025, "department": "Marketing", "type": "Budget Proposal"}
+        }
+    ],
+    "Customer Feedback Analysis - Q2 2024": [
+        {
+            "id": "doc-012",
+            "source": "CustomerSuccess_DB",
+            "content": "Analysis of Q2 2024 customer feedback shows high satisfaction with our new user interface. However, there are recurring requests for a mobile application.",
+            "metadata": {"year": 2024, "quarter": 2, "type": "Customer Feedback"}
+        }
+    ],
+    "New Hire Onboarding Manual - v3.0": [
+        {
+            "id": "doc-013",
+            "source": "HR_Portal",
+            "content": "Version 3.0 of the New Hire Onboarding Manual has been released. It includes updated information on company culture, benefits, and a revised 90-day plan for new employees.",
+            "metadata": {"version": "3.0", "type": "Training Material"}
+        }
+    ],
+    "Competitor Analysis - Innovate Inc.": [
+        {
+            "id": "doc-014",
+            "source": "Market_Research",
+            "content": "A deep-dive analysis of our main competitor, Innovate Inc., reveals their recent acquisition of a data analytics firm, signaling a strategic shift towards data-driven services.",
+            "metadata": {"competitor": "Innovate Inc.", "type": "Competitor Analysis"}
+        }
+    ],
+    "Data Privacy Policy Update - GDPR Compliance": [
+        {
+            "id": "doc-015",
+            "source": "Compliance_Dept",
+            "content": "Our data privacy policy has been updated to ensure full compliance with the latest GDPR amendments. All employees handling customer data must complete the mandatory training by end of the month.",
+            "metadata": {"regulation": "GDPR", "type": "Compliance Document"}
+        }
+    ],
+    "Sales Performance Review - North America - H1 2024": [
+        {
+            "id": "doc-016",
+            "source": "Sales_CRM",
+            "content": "The North American sales team exceeded its H1 2024 target by 12%. The enterprise sector was the largest contributor to this growth.",
+            "metadata": {"year": 2024, "period": "H1", "region": "North America", "type": "Sales Report"}
+        }
+    ],
+    "Minutes of the Board of Directors Meeting - May 2024": [
+        {
+            "id": "doc-017",
+            "source": "Executive_Admin",
+            "content": "The Board of Directors met in May 2024 to discuss the Q1 financial results and approve the strategic plan for the next fiscal year. The minutes are now available for review.",
+            "metadata": {"date": "2024-05-15", "type": "Meeting Minutes"}
+        }
+    ],
+    "R&D Project 'Phoenix' - Feasibility Study": [
+        {
+            "id": "doc-018",
+            "source": "RandD_Division",
+            "content": "The feasibility study for Project 'Phoenix' concludes that the proposed technology is viable but will require significant investment in new equipment. A detailed cost-benefit analysis is attached.",
+            "metadata": {"project_id": "Phoenix", "type": "Feasibility Study"}
+        }
+    ],
+    "Cybersecurity Threat Assessment - Q1 2024": [
+        {
+            "id": "doc-019",
+            "source": "IT_Security",
+            "content": "The Q1 2024 cybersecurity assessment identified an increase in phishing attempts. New email filtering rules have been implemented to mitigate this threat.",
+            "metadata": {"year": 2024, "quarter": 1, "type": "Security Report"}
+        }
+    ],
+    "Annual Shareholder Meeting Presentation - 2023": [
+        {
+            "id": "doc-020",
+            "source": "Investor_Relations",
+            "content": "This presentation was delivered at the 2023 Annual Shareholder Meeting, summarizing the company's performance, strategic initiatives, and outlook for the future.",
+            "metadata": {"year": 2023, "type": "Investor Presentation"}
+        }
+    ],
+    "Q2 2024 Financial Results": [
+        {
+            "id": "doc-021",
+            "source": "Finance_DB",
+            "content": "Q2 2024 financials show a net profit of $2.3 million, a 9.5% increase from the previous quarter, driven by strong sales in the European market. Revenue grew to $16.2 million.",
+            "metadata": {"year": 2024, "quarter": 2, "type": "Quarterly Report"}
+        }
+    ],
+    "Social Media Engagement Report - July 2024": [
+        {
+            "id": "doc-022",
+            "source": "MarketingDept_Analytics",
+            "content": "In July 2024, our social media channels saw a 15% increase in engagement. The 'Summer Sale' campaign was the most successful, generating over 500,000 impressions.",
+            "metadata": {"year": 2024, "month": 7, "type": "Social Media Report"}
+        }
+    ],
+    "Internal Audit Report - Expense Claims": [
+        {
+            "id": "doc-023",
+            "source": "Internal_Audit",
+            "content": "The internal audit of employee expense claims for H1 2024 found a 98% compliance rate with company policy. Recommendations for improving the submission process have been made.",
+            "metadata": {"year": 2024, "period": "H1", "type": "Audit Report"}
+        }
+    ],
+    "Project 'Odyssey' - Kick-off Meeting Minutes": [
+        {
+            "id": "doc-024",
+            "source": "ProjectManagement_Office",
+            "content": "The kick-off meeting for Project 'Odyssey' was held on August 5, 2024. Key stakeholders were aligned on the project scope, timeline, and budget. Action items have been assigned.",
+            "metadata": {"project_id": "Odyssey", "date": "2024-08-05", "type": "Meeting Minutes"}
+        }
+    ],
+    "Diversity & Inclusion Report 2023": [
+        {
+            "id": "doc-025",
+            "source": "HR_Portal",
+            "content": "The 2023 Diversity & Inclusion report shows progress in gender representation in leadership roles. The company is launching new initiatives to improve ethnic diversity.",
+            "metadata": {"year": 2023, "type": "D&I Report"}
+        }
+    ],
+    "Cloud Migration Strategy Document": [
+        {
+            "id": "doc-026",
+            "source": "IT_Strategy",
+            "content": "This document outlines the strategy for migrating 75% of our on-premise infrastructure to the cloud over the next two years. The plan details the phased approach, vendor selection, and expected cost savings.",
+            "metadata": {"type": "IT Strategy", "timeframe_years": 2}
+        }
+    ],
+    "Patent Application - 'SmartSort' Algorithm": [
+        {
+            "id": "doc-027",
+            "source": "Legal_Docs",
+            "content": "A patent application has been filed for our proprietary 'SmartSort' algorithm. This document contains the full technical description and claims.",
+            "metadata": {"patent_name": "SmartSort", "type": "Intellectual Property"}
+        }
+    ],
+    "Q4 2023 Marketing Campaign 'Holiday Deals' Analysis": [
+        {
+            "id": "doc-028",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Holiday Deals' campaign in Q4 2023 generated a record $1.2 million in direct sales, with an ROI of 5:1. Email marketing was the most effective channel.",
+            "metadata": {"year": 2023, "quarter": 4, "type": "Marketing Campaign Analysis", "campaign_name": "Holiday Deals"}
+        }
+    ],
+    "Employee Training Program Feedback - 'Leadership 101'": [
+        {
+            "id": "doc-029",
+            "source": "HR_Training",
+            "content": "Feedback from the 'Leadership 101' training program has been overwhelmingly positive, with an average rating of 4.8/5. Participants requested more sessions on conflict resolution.",
+            "metadata": {"program_name": "Leadership 101", "type": "Training Feedback"}
+        }
+    ],
+    "Manufacturing Process Optimization Report": [
+        {
+            "id": "doc-030",
+            "source": "Operations_Dept",
+            "content": "Implementation of new automation in the manufacturing line has resulted in a 15% increase in production efficiency and a 10% reduction in material waste.",
+            "metadata": {"type": "Operations Report"}
+        }
+    ],
+    "2024 annual report - draft": [
+        {
+            "id": "doc-031",
+            "source": "NTH_DB",
+            "content": "This is the first draft of the 2024 annual report. It shows a 15% increase in revenue, primarily driven by the new SaaS division. Key challenges include supply chain disruptions. The numbers are preliminary.",
+            "metadata": {"year": 2024, "type": "Annual Report", "status": "draft"}
+        }
+    ],
+    "tax implications document abc": [
+        {
+            "id": "doc-032",
+            "source": "NTH_DB",
+            "content": "Document ABC outlines that increased revenue from international services may be subject to a new 3% digital services tax in the EU.",
+            "metadata": {"document_id": "ABC", "type": "Tax Advisory"}
+        }
+    ],
+    "Q2 2024 Marketing Campaign 'Summer Splash' Analysis": [
+        {
+            "id": "doc-033",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Summer Splash' campaign in Q2 2024 resulted in a 30% increase in social media engagement and a 12% rise in online sales. The cost per acquisition (CPA) was $45, which is 10% below the target.",
+            "metadata": {"year": 2024, "quarter": 2, "type": "Marketing Campaign Analysis", "campaign_name": "Summer Splash"}
+        }
+    ],
+    "2024 Employee Satisfaction Survey Results": [
+        {
+            "id": "doc-034",
+            "source": "HR_Portal",
+            "content": "The 2024 Employee Satisfaction Survey indicated an overall satisfaction rate of 85%, up 3% from 2023. Key areas for improvement include technology and tools, and performance feedback.",
+            "metadata": {"year": 2024, "type": "HR Survey", "response_rate": "93%"}
+        }
+    ],
+    "Project Beta - Phase 1 Completion Report": [
+        {
+            "id": "doc-035",
+            "source": "ProjectManagement_Office",
+            "content": "Phase 1 of Project Beta was completed on schedule and 1% over budget. All key deliverables for this phase have been met. Phase 2 is set to commence next week.",
+            "metadata": {"project_id": "Beta", "phase": 1, "type": "Project Report"}
+        }
+    ],
+    "Q4 2023 Financial Results": [
+        {
+            "id": "doc-036",
+            "source": "Finance_DB",
+            "content": "Q4 2023 financials show a net profit of $2.5 million, a 19% increase from the previous quarter, attributed to strong holiday sales. Revenue grew to $18 million.",
+            "metadata": {"year": 2023, "quarter": 4, "type": "Quarterly Report"}
+        }
+    ],
+    "Updated Travel and Expense Policy - Effective Feb 2025": [
+        {
+            "id": "doc-037",
+            "source": "HR_Policies",
+            "content": "The updated travel and expense policy, effective February 2025, introduces a new per diem for international travel and requires pre-approval for all flights. The policy outlines new guidelines for expense reporting.",
+            "metadata": {"effective_date": "2025-02-01", "type": "HR Policy"}
+        }
+    ],
+    "Supply Chain Risk Assessment - North America": [
+        {
+            "id": "doc-038",
+            "source": "Logistics_Dept",
+            "content": "A recent risk assessment of our North America supply chain identified potential disruptions due to labor shortages. Mitigation strategies are being developed.",
+            "metadata": {"region": "North America", "type": "Risk Assessment"}
+        }
+    ],
+    "Legal Brief - Contract Dispute Case 45-C": [
+        {
+            "id": "doc-039",
+            "source": "Legal_Docs",
+            "content": "This brief provides an overview of the ongoing contract dispute case 45-C. Mediation is scheduled for next month.",
+            "metadata": {"case_id": "45-C", "type": "Legal Brief"}
+        }
+    ],
+    "IT Department Q1 2024 System Uptime Report": [
+        {
+            "id": "doc-040",
+            "source": "IT_Support_Logs",
+            "content": "The IT department reported a 99.99% system uptime for all critical systems in Q1 2024, exceeding the target of 99.95%. A major outage on the email server was resolved within 2 hours.",
+            "metadata": {"year": 2024, "quarter": 1, "type": "IT Report"}
+        }
+    ],
+    "2025 Budget Proposal - R&D Department": [
+        {
+            "id": "doc-041",
+            "source": "Finance_Planning",
+            "content": "The R&D Department's 2025 budget proposal requests a 15% increase to support the development of a new AI-powered analytics platform.",
+            "metadata": {"year": 2025, "department": "R&D", "type": "Budget Proposal"}
+        }
+    ],
+    "Customer Feedback Analysis - Q3 2024": [
+        {
+            "id": "doc-042",
+            "source": "CustomerSuccess_DB",
+            "content": "Analysis of Q3 2024 customer feedback shows high satisfaction with our customer support. However, there are recurring requests for more advanced features.",
+            "metadata": {"year": 2024, "quarter": 3, "type": "Customer Feedback"}
+        }
+    ],
+    "New Hire Onboarding Manual - v4.0": [
+        {
+            "id": "doc-043",
+            "source": "HR_Portal",
+            "content": "Version 4.0 of the New Hire Onboarding Manual has been released. It includes updated information on our remote work policy, a revised code of conduct, and a new 30-day plan for new employees.",
+            "metadata": {"version": "4.0", "type": "Training Material"}
+        }
+    ],
+    "Competitor Analysis - NextGen Solutions": [
+        {
+            "id": "doc-044",
+            "source": "Market_Research",
+            "content": "A deep-dive analysis of our main competitor, NextGen Solutions, reveals their recent launch of a new product line that directly competes with our flagship offering.",
+            "metadata": {"competitor": "NextGen Solutions", "type": "Competitor Analysis"}
+        }
+    ],
+    "Data Privacy Policy Update - CCPA Compliance": [
+        {
+            "id": "doc-045",
+            "source": "Compliance_Dept",
+            "content": "Our data privacy policy has been updated to ensure full compliance with the latest CCPA amendments. All employees handling California resident data must complete the mandatory training by end of the quarter.",
+            "metadata": {"regulation": "CCPA", "type": "Compliance Document"}
+        }
+    ],
+    "Sales Performance Review - Europe - H1 2024": [
+        {
+            "id": "doc-046",
+            "source": "Sales_CRM",
+            "content": "The European sales team missed its H1 2024 target by 5%. The small and medium business sector was the main reason for this shortfall.",
+            "metadata": {"year": 2024, "period": "H1", "region": "Europe", "type": "Sales Report"}
+        }
+    ],
+    "Minutes of the Board of Directors Meeting - August 2024": [
+        {
+            "id": "doc-047",
+            "source": "Executive_Admin",
+            "content": "The Board of Directors met in August 2024 to discuss the Q2 financial results and approve the acquisition of a smaller competitor. The minutes are now available for review.",
+            "metadata": {"date": "2024-08-20", "type": "Meeting Minutes"}
+        }
+    ],
+    "R&D Project 'Gemini' - Feasibility Study": [
+        {
+            "id": "doc-048",
+            "source": "RandD_Division",
+            "content": "The feasibility study for Project 'Gemini' concludes that the proposed new material is viable but will require a new manufacturing process. A detailed cost-benefit analysis is attached.",
+            "metadata": {"project_id": "Gemini", "type": "Feasibility Study"}
+        }
+    ],
+    "Cybersecurity Threat Assessment - Q2 2024": [
+        {
+            "id": "doc-049",
+            "source": "IT_Security",
+            "content": "The Q2 2024 cybersecurity assessment identified an increase in malware attacks. New antivirus software has been deployed to all workstations to mitigate this threat.",
+            "metadata": {"year": 2024, "quarter": 2, "type": "Security Report"}
+        }
+    ],
+    "Annual Shareholder Meeting Presentation - 2024": [
+        {
+            "id": "doc-050",
+            "source": "Investor_Relations",
+            "content": "This presentation was delivered at the 2024 Annual Shareholder Meeting, summarizing the company's performance, strategic initiatives, and outlook for the future.",
+            "metadata": {"year": 2024, "type": "Investor Presentation"}
+        }
+    ],
+    "Q3 2024 Financial Results": [
+        {
+            "id": "doc-051",
+            "source": "Finance_DB",
+            "content": "Q3 2024 financials show a net profit of $2.8 million, a 21.7% increase from the previous quarter, driven by the launch of a new product. Revenue grew to $19.5 million.",
+            "metadata": {"year": 2024, "quarter": 3, "type": "Quarterly Report"}
+        }
+    ],
+    "Social Media Engagement Report - August 2024": [
+        {
+            "id": "doc-052",
+            "source": "MarketingDept_Analytics",
+            "content": "In August 2024, our social media channels saw a 20% increase in engagement. The 'Back to School' campaign was the most successful, generating over 750,000 impressions.",
+            "metadata": {"year": 2024, "month": 8, "type": "Social Media Report"}
+        }
+    ],
+    "Internal Audit Report - Procurement": [
+        {
+            "id": "doc-053",
+            "source": "Internal_Audit",
+            "content": "The internal audit of the procurement process for H1 2024 found a 95% compliance rate with company policy. Recommendations for improving vendor selection have been made.",
+            "metadata": {"year": 2024, "period": "H1", "type": "Audit Report"}
+        }
+    ],
+    "Project 'Phoenix' - Phase 1 Completion Report": [
+        {
+            "id": "doc-054",
+            "source": "ProjectManagement_Office",
+            "content": "Phase 1 of Project 'Phoenix' was completed two weeks ahead of schedule and 5% under budget. All key deliverables for this phase have been met. Phase 2 is set to commence next month.",
+            "metadata": {"project_id": "Phoenix", "phase": 1, "type": "Project Report"}
+        }
+    ],
+    "Diversity & Inclusion Report 2024": [
+        {
+            "id": "doc-055",
+            "source": "HR_Portal",
+            "content": "The 2024 Diversity & Inclusion report shows progress in ethnic diversity in our workforce. The company is launching new initiatives to improve gender representation in technical roles.",
+            "metadata": {"year": 2024, "type": "D&I Report"}
+        }
+    ],
+    "Cloud Migration - Phase 1 Completion Report": [
+        {
+            "id": "doc-056",
+            "source": "IT_Strategy",
+            "content": "Phase 1 of the cloud migration project is complete. 25% of our on-premise infrastructure has been successfully migrated to the cloud. The project is on track to be completed within the two-year timeframe.",
+            "metadata": {"type": "IT Strategy", "phase": 1}
+        }
+    ],
+    "Trademark Application - 'QuickLink' Software": [
+        {
+            "id": "doc-057",
+            "source": "Legal_Docs",
+            "content": "A trademark application has been filed for our new 'QuickLink' software. This document contains the full details of the application.",
+            "metadata": {"trademark_name": "QuickLink", "type": "Intellectual Property"}
+        }
+    ],
+    "Q1 2025 Marketing Campaign 'New Year, New You' Analysis": [
+        {
+            "id": "doc-058",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'New Year, New You' campaign in Q1 2025 generated a 15% increase in new customer acquisition, with an ROI of 4:1. Influencer marketing was the most effective channel.",
+            "metadata": {"year": 2025, "quarter": 1, "type": "Marketing Campaign Analysis", "campaign_name": "New Year, New You"}
+        }
+    ],
+    "Employee Training Program Feedback - 'Project Management Fundamentals'": [
+        {
+            "id": "doc-059",
+            "source": "HR_Training",
+            "content": "Feedback from the 'Project Management Fundamentals' training program has been positive, with an average rating of 4.5/5. Participants requested more hands-on exercises.",
+            "metadata": {"program_name": "Project Management Fundamentals", "type": "Training Feedback"}
+        }
+    ],
+    "Logistics and Distribution Network Optimization Report": [
+        {
+            "id": "doc-060",
+            "source": "Operations_Dept",
+            "content": "A review of our logistics and distribution network has identified opportunities to reduce shipping costs by 10% by consolidating warehouses.",
+            "metadata": {"type": "Operations Report"}
+        }
+    ],
+    "2025 annual report - preliminary data": [
+        {
+            "id": "doc-061",
+            "source": "NTH_DB",
+            "content": "Preliminary data for the 2025 annual report suggests a 12% increase in revenue, driven by international expansion. Key challenges include regulatory hurdles in new markets.",
+            "metadata": {"year": 2025, "type": "Annual Report", "status": "preliminary"}
+        }
+    ],
+    "tax implications document pqr": [
+        {
+            "id": "doc-062",
+            "source": "NTH_DB",
+            "content": "Document PQR outlines that changes in capital gains tax may impact our investment portfolio.",
+            "metadata": {"document_id": "PQR", "type": "Tax Advisory"}
+        }
+    ],
+    "Q2 2025 Marketing Campaign 'Getaway Giveaway' Analysis": [
+        {
+            "id": "doc-063",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Getaway Giveaway' campaign in Q2 2025 resulted in a 50% increase in social media followers and a 5% rise in brand awareness. The cost per engagement was $0.10.",
+            "metadata": {"year": 2025, "quarter": 2, "type": "Marketing Campaign Analysis", "campaign_name": "Getaway Giveaway"}
+        }
+    ],
+    "2025 Employee Satisfaction Survey - Pulse Check": [
+        {
+            "id": "doc-064",
+            "source": "HR_Portal",
+            "content": "The 2025 mid-year employee satisfaction pulse check shows an overall satisfaction rate of 88%. Key areas of strength include work-life balance and company culture.",
+            "metadata": {"year": 2025, "type": "HR Survey", "response_rate": "85%"}
+        }
+    ],
+    "Project Gamma - Phase 1 Completion Report": [
+        {
+            "id": "doc-065",
+            "source": "ProjectManagement_Office",
+            "content": "Phase 1 of Project Gamma was completed one week behind schedule but within budget. All key deliverables for this phase have been met. Phase 2 is set to commence next month.",
+            "metadata": {"project_id": "Gamma", "phase": 1, "type": "Project Report"}
+        }
+    ],
+    "Q1 2025 Financial Results": [
+        {
+            "id": "doc-066",
+            "source": "Finance_DB",
+            "content": "Q1 2025 financials show a net profit of $3.1 million, a 10.7% increase from the previous quarter, driven by strong performance in the SaaS division. Revenue grew to $21.6 million.",
+            "metadata": {"year": 2025, "quarter": 1, "type": "Quarterly Report"}
+        }
+    ],
+    "Updated Code of Conduct - Effective March 2025": [
+        {
+            "id": "doc-067",
+            "source": "HR_Policies",
+            "content": "The updated Code of Conduct, effective March 2025, includes new sections on social media usage and anti-harassment. All employees are required to acknowledge the new policy.",
+            "metadata": {"effective_date": "2025-03-01", "type": "HR Policy"}
+        }
+    ],
+    "Supply Chain Risk Assessment - Europe": [
+        {
+            "id": "doc-068",
+            "source": "Logistics_Dept",
+            "content": "A recent risk assessment of our European supply chain identified potential disruptions due to new import regulations. Mitigation strategies are being developed.",
+            "metadata": {"region": "Europe", "type": "Risk Assessment"}
+        }
+    ],
+    "Legal Brief - Data Privacy Complaint 12-D": [
+        {
+            "id": "doc-069",
+            "source": "Legal_Docs",
+            "content": "This brief provides an overview of the data privacy complaint 12-D. We are currently investigating the claim and will respond to the regulatory body within 30 days.",
+            "metadata": {"case_id": "12-D", "type": "Legal Brief"}
+        }
+    ],
+    "IT Department Q2 2024 System Uptime Report": [
+        {
+            "id": "doc-070",
+            "source": "IT_Support_Logs",
+            "content": "The IT department reported a 99.97% system uptime for all critical systems in Q2 2024, exceeding the target of 99.95%. A brief outage on the company website was resolved within 15 minutes.",
+            "metadata": {"year": 2024, "quarter": 2, "type": "IT Report"}
+        }
+    ],
+    "2026 Budget Proposal - Operations Department": [
+        {
+            "id": "doc-071",
+            "source": "Finance_Planning",
+            "content": "The Operations Department's 2026 budget proposal requests a 5% increase to invest in new machinery and automation.",
+            "metadata": {"year": 2026, "department": "Operations", "type": "Budget Proposal"}
+        }
+    ],
+    "Customer Feedback Analysis - Q4 2024": [
+        {
+            "id": "doc-072",
+            "source": "CustomerSuccess_DB",
+            "content": "Analysis of Q4 2024 customer feedback shows high satisfaction with our product reliability. However, there are recurring requests for better documentation.",
+            "metadata": {"year": 2024, "quarter": 4, "type": "Customer Feedback"}
+        }
+    ],
+    "New Hire Onboarding Manual - v5.0": [
+        {
+            "id": "doc-073",
+            "source": "HR_Portal",
+            "content": "Version 5.0 of the New Hire Onboarding Manual has been released. It includes updated information on our company values, a revised benefits summary, and a new 60-day plan for new employees.",
+            "metadata": {"version": "5.0", "type": "Training Material"}
+        }
+    ],
+    "Competitor Analysis - Global Tech": [
+        {
+            "id": "doc-074",
+            "source": "Market_Research",
+            "content": "A deep-dive analysis of our main competitor, Global Tech, reveals their recent expansion into the Asia-Pacific market, which could impact our growth in the region.",
+            "metadata": {"competitor": "Global Tech", "type": "Competitor Analysis"}
+        }
+    ],
+    "Data Privacy Policy Update - HIPAA Compliance": [
+        {
+            "id": "doc-075",
+            "source": "Compliance_Dept",
+            "content": "Our data privacy policy has been updated to ensure full compliance with the latest HIPAA regulations. All employees handling patient data must complete the mandatory training by end of the month.",
+            "metadata": {"regulation": "HIPAA", "type": "Compliance Document"}
+        }
+    ],
+    "Sales Performance Review - Asia-Pacific - H2 2024": [
+        {
+            "id": "doc-076",
+            "source": "Sales_CRM",
+            "content": "The Asia-Pacific sales team exceeded its H2 2024 target by 15%. The financial services sector was the largest contributor to this growth.",
+            "metadata": {"year": 2024, "period": "H2", "region": "Asia-Pacific", "type": "Sales Report"}
+        }
+    ],
+    "Minutes of the Board of Directors Meeting - November 2024": [
+        {
+            "id": "doc-077",
+            "source": "Executive_Admin",
+            "content": "The Board of Directors met in November 2024 to discuss the Q3 financial results and approve the 2025 budget. The minutes are now available for review.",
+            "metadata": {"date": "2024-11-18", "type": "Meeting Minutes"}
+        }
+    ],
+    "R&D Project 'Orion' - Feasibility Study": [
+        {
+            "id": "doc-078",
+            "source": "RandD_Division",
+            "content": "The feasibility study for Project 'Orion' concludes that the proposed new software is viable but will require a team of 10 developers for 18 months. A detailed cost-benefit analysis is attached.",
+            "metadata": {"project_id": "Orion", "type": "Feasibility Study"}
+        }
+    ],
+    "Cybersecurity Threat Assessment - Q3 2024": [
+        {
+            "id": "doc-079",
+            "source": "IT_Security",
+            "content": "The Q3 2024 cybersecurity assessment identified an increase in ransomware attacks. New backup and recovery procedures have been implemented to mitigate this threat.",
+            "metadata": {"year": 2024, "quarter": 3, "type": "Security Report"}
+        }
+    ],
+    "Annual Shareholder Meeting Presentation - 2025": [
+        {
+            "id": "doc-080",
+            "source": "Investor_Relations",
+            "content": "This presentation was delivered at the 2025 Annual Shareholder Meeting, summarizing the company's performance, strategic initiatives, and outlook for the future.",
+            "metadata": {"year": 2025, "type": "Investor Presentation"}
+        }
+    ],
+    "Q4 2024 Financial Results": [
+        {
+            "id": "doc-081",
+            "source": "Finance_DB",
+            "content": "Q4 2024 financials show a net profit of $3.5 million, a 25% increase from the previous quarter, driven by strong holiday sales. Revenue grew to $24.5 million.",
+            "metadata": {"year": 2024, "quarter": 4, "type": "Quarterly Report"}
+        }
+    ],
+    "Social Media Engagement Report - September 2024": [
+        {
+            "id": "doc-082",
+            "source": "MarketingDept_Analytics",
+            "content": "In September 2024, our social media channels saw a 10% decrease in engagement. This is attributed to a seasonal slowdown. A new campaign is planned for October.",
+            "metadata": {"year": 2024, "month": 9, "type": "Social Media Report"}
+        }
+    ],
+    "Internal Audit Report - IT Security": [
+        {
+            "id": "doc-083",
+            "source": "Internal_Audit",
+            "content": "The internal audit of IT security for H2 2024 found a 99% compliance rate with company policy. Recommendations for improving password policies have been made.",
+            "metadata": {"year": 2024, "period": "H2", "type": "Audit Report"}
+        }
+    ],
+    "Project 'Vega' - Kick-off Meeting Minutes": [
+        {
+            "id": "doc-084",
+            "source": "ProjectManagement_Office",
+            "content": "The kick-off meeting for Project 'Vega' was held on January 15, 2025. Key stakeholders were aligned on the project scope, timeline, and budget. Action items have been assigned.",
+            "metadata": {"project_id": "Vega", "date": "2025-01-15", "type": "Meeting Minutes"}
+        }
+    ],
+    "Diversity & Inclusion Report 2025": [
+        {
+            "id": "doc-085",
+            "source": "HR_Portal",
+            "content": "The 2025 Diversity & Inclusion report shows progress in creating a more inclusive culture. The company is launching new mentorship programs to support underrepresented groups.",
+            "metadata": {"year": 2025, "type": "D&I Report"}
+        }
+    ],
+    "Cloud Migration - Phase 2 Completion Report": [
+        {
+            "id": "doc-086",
+            "source": "IT_Strategy",
+            "content": "Phase 2 of the cloud migration project is complete. 50% of our on-premise infrastructure has been successfully migrated to the cloud. The project is on track to be completed within the two-year timeframe.",
+            "metadata": {"type": "IT Strategy", "phase": 2}
+        }
+    ],
+    "Copyright Application - 'DataWeaver' Platform": [
+        {
+            "id": "doc-087",
+            "source": "Legal_Docs",
+            "content": "A copyright application has been filed for our new 'DataWeaver' platform. This document contains the full details of the application.",
+            "metadata": {"copyright_name": "DataWeaver", "type": "Intellectual Property"}
+        }
+    ],
+    "Q3 2025 Marketing Campaign 'Fall Festival' Analysis": [
+        {
+            "id": "doc-088",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Fall Festival' campaign in Q3 2025 generated a 20% increase in website traffic, with an ROI of 3:1. Content marketing was the most effective channel.",
+            "metadata": {"year": 2025, "quarter": 3, "type": "Marketing Campaign Analysis", "campaign_name": "Fall Festival"}
+        }
+    ],
+    "Employee Training Program Feedback - 'Advanced Sales Techniques'": [
+        {
+            "id": "doc-089",
+            "source": "HR_Training",
+            "content": "Feedback from the 'Advanced Sales Techniques' training program has been excellent, with an average rating of 4.9/5. Participants requested more role-playing scenarios.",
+            "metadata": {"program_name": "Advanced Sales Techniques", "type": "Training Feedback"}
+        }
+    ],
+    "Quality Assurance Report - Q2 2025": [
+        {
+            "id": "doc-090",
+            "source": "Operations_Dept",
+            "content": "The Quality Assurance report for Q2 2025 shows a 99.5% product acceptance rate, which is above our target of 99%.",
+            "metadata": {"year": 2025, "quarter": 2, "type": "QA Report"}
+        }
+    ],
+    "2026 annual report - forecast": [
+        {
+            "id": "doc-091",
+            "source": "NTH_DB",
+            "content": "The forecast for the 2026 annual report projects a 10% increase in revenue, contingent on the successful launch of our new product line. Key risks include increased competition and economic uncertainty.",
+            "metadata": {"year": 2026, "type": "Annual Report", "status": "forecast"}
+        }
+    ],
+    "tax implications document stu": [
+        {
+            "id": "doc-092",
+            "source": "NTH_DB",
+            "content": "Document STU outlines that new environmental taxes may impact our manufacturing costs.",
+            "metadata": {"document_id": "STU", "type": "Tax Advisory"}
+        }
+    ],
+    "Q4 2025 Marketing Campaign 'Winter Wonderland' Analysis": [
+        {
+            "id": "doc-093",
+            "source": "MarketingDept_Analytics",
+            "content": "The 'Winter Wonderland' campaign in Q4 2025 resulted in a 40% increase in holiday sales and a 15% rise in customer loyalty. The cost per acquisition (CPA) was $40, which is 20% below the target.",
+            "metadata": {"year": 2025, "quarter": 4, "type": "Marketing Campaign Analysis", "campaign_name": "Winter Wonderland"}
+        }
+    ],
+    "2026 Employee Satisfaction Survey - Planning": [
+        {
+            "id": "doc-094",
+            "source": "HR_Portal",
+            "content": "This document outlines the plan for the 2026 Employee Satisfaction Survey. The survey will be launched in Q1 and will focus on career development and work-life balance.",
+            "metadata": {"year": 2026, "type": "HR Survey", "status": "planning"}
+        }
+    ],
+    "Project Delta - Phase 1 Completion Report": [
+        {
+            "id": "doc-095",
+            "source": "ProjectManagement_Office",
+            "content": "Phase 1 of Project Delta was completed on schedule and on budget. All key deliverables for this phase have been met. Phase 2 is set to commence next quarter.",
+            "metadata": {"project_id": "Delta", "phase": 1, "type": "Project Report"}
+        }
+    ],
+    "Q2 2025 Financial Results": [
+        {
+            "id": "doc-096",
+            "source": "Finance_DB",
+            "content": "Q2 2025 financials show a net profit of $3.3 million, a 6.5% increase from the previous quarter, driven by cost-saving initiatives. Revenue remained steady at $23 million.",
+            "metadata": {"year": 2025, "quarter": 2, "type": "Quarterly Report"}
+        }
+    ],
+    "Updated Health and Safety Policy - Effective April 2025": [
+        {
+            "id": "doc-097",
+            "source": "HR_Policies",
+            "content": "The updated Health and Safety Policy, effective April 2025, includes new guidelines for workplace ergonomics and emergency procedures. All employees are required to complete the updated training.",
+            "metadata": {"effective_date": "2025-04-01", "type": "HR Policy"}
+        }
+    ],
+    "Supply Chain Risk Assessment - South America": [
+        {
+            "id": "doc-098",
+            "source": "Logistics_Dept",
+            "content": "A recent risk assessment of our South American supply chain identified potential disruptions due to currency fluctuations. Mitigation strategies are being developed.",
+            "metadata": {"region": "South America", "type": "Risk Assessment"}
+        }
+    ],
+    "Legal Brief - Employment Law Case 23-E": [
+        {
+            "id": "doc-099",
+            "source": "Legal_Docs",
+            "content": "This brief provides an overview of the employment law case 23-E. We have reached a settlement with the plaintiff, and the case is now closed.",
+            "metadata": {"case_id": "23-E", "type": "Legal Brief"}
+        }
+    ],
+    "IT Department Q3 2024 System Uptime Report": [
+        {
+            "id": "doc-100",
+            "source": "IT_Support_Logs",
+            "content": "The IT department reported a 100% system uptime for all critical systems in Q3 2024, exceeding the target of 99.95%. There were no major outages during this period.",
+            "metadata": {"year": 2024, "quarter": 3, "type": "IT Report"}
+        }
+    ]
+}

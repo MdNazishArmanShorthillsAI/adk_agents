@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+  adk-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: adk-web
+    environment:
+      - ADK_HOST=0.0.0.0
+      - ADK_PORT=8000
+      - NTH_API_BASE_URL=http://nth-api:8002
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+      - adk_data:/app/data
+    depends_on:
+      - nth-api
+    command: bash -lc "adk web --host=$ADK_HOST --port=$ADK_PORT --reload=false /app/agents"
+
+  nth-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nth-api
+    environment:
+      - NTH_API_HOST=0.0.0.0
+      - NTH_API_PORT=8002
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./:/app
+    command: bash -lc "python -m api.placeholder_nth_api"
+
+volumes:
+  adk_data: 

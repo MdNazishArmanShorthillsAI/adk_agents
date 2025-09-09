@@ -1,7 +1,9 @@
 import requests
 import json
+import os
 
-API_URL = "http://127.0.0.1:8002/search"
+API_BASE_URL = os.getenv("NTH_API_BASE_URL", "http://127.0.0.1:8002")
+API_URL = f"{API_BASE_URL.rstrip('/')}\/search"
 
 def search_nth_database(query: str) -> str:
     try:

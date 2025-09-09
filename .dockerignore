@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.egg-info/
+
+# Venv and local tools
+env/
+.venv/
+
+# MacOS
+.DS_Store
+*/.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+adk_server.log
+sse_events.jsonl
+
+# Node/other
+node_modules/ 
