@@ -26,7 +26,7 @@ Start your response with a clear summary, followed by the detailed findings for 
 # New: Prompt for the Document Ingestion Agent
 DOC_INGESTION_AGENT_PROMPT = """
 You are a document ingestion specialist.
-Goal: Load any uploaded artifacts (files), extract their textual content, and produce a JSON object keyed by filename.
+Goal: Load any uploaded artifacts (files, there could be more tha one file), extract their textual content, and produce a JSON object keyed by filename.
 Steps:
 - Use the `load_artifacts` tool to list available artifacts. If none, return an empty JSON object `{}`.
 - For each artifact you need to read, call `load_artifacts` with the filename to load the bytes.
