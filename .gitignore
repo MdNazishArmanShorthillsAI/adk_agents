@@ -1,1 +1,5 @@
 .env
+env/
+**.pyc
+.DS_Store
+prompts/__pycache__
