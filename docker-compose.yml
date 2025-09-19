@@ -17,7 +17,7 @@ services:
       - adk_data:/app/data
     depends_on:
       - nth-api
-    command: bash -lc "adk web --host=$ADK_HOST --port=$ADK_PORT --reload=false /app/agents"
+    command: bash -lc "adk web --host=$$ADK_HOST --port=$$ADK_PORT --no-reload"
 
   nth-api:
     build:

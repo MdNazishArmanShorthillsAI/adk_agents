@@ -31,4 +31,4 @@ EXPOSE 8000 8002
 
 # Start the ADK web server by default
 # Use: docker compose to also start the nth-api process as a separate service
-CMD ["bash", "-lc", "adk web --host=$ADK_HOST --port=$ADK_PORT --reload=false /app/agents"] 
+CMD ["bash", "-lc", "adk web --host=$ADK_HOST --port=$ADK_PORT --no-reload"] 
